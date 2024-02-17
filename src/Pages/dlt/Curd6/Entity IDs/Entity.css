@@ -1,0 +1,48 @@
+.entity1{
+    margin-left: 18%;
+}
+.entity1_1 button{
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+    width: 200px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 6px;
+    background-color: brown;
+    color: #fff;
+    border: none;
+}
+.entity2{
+    margin-top: -20px;
+}
+.entity2 table{
+    padding-left: 10px;
+    margin-top: 90px;
+    width: 60%;
+    height: 20px;
+    border-collapse: collapse;
+  }
+
+  tr:nth-of-type(odd){
+    color: #333;
+    background-color: #fff;
+  }
+  tr:nth-of-type(even){
+    background-color: gray;
+    color:#fff;
+  }
+
+  th{
+    background-color: rgb(36, 32, 32);
+    color: #fff;
+    /* font-weight: 800; */
+    font-size: 15px;
+  }
+
+  td,th{
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }

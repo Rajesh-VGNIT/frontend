@@ -1,0 +1,17 @@
+.found h2{
+    margin: 50px 400px;
+}
+/* .found{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+   justify-content: center;
+   align-items: center
+} */
+.found p{
+    margin: 0px 400px;
+    color: blue;
+    text-decoration: underline;
+}

@@ -1,0 +1,71 @@
+.clicker1{
+    margin-left: 18%;
+}
+
+.clicker1_1{
+    float: right;
+    margin-right: 15px;
+}
+.clicker1_1 button{
+    margin-top: 30px;
+    margin-right: 20px;
+    width: 200px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 6px;
+    background-color: #c22b31;
+    color: #fff;
+    border: none;
+}
+.clicker2{
+    margin-top: 2rem;
+    display: flex;
+    gap: 20px;
+}
+.clicker2_1{
+    border: none;
+    outline: none;
+    margin-left: 11.5rem;
+    border-radius: 3px;
+    padding-left: 10px;
+    width: 8rem;
+    height: 35px;
+}
+.clicker2_2 input{
+    border: none;
+   width: 9rem;
+   height: 35px;
+   border-radius: 3px;
+   padding-left: 10px;
+}
+.clicker2_3 button{
+    width: 7rem;
+    height: 35px;
+    margin-left: 4rem;
+    border: none;
+    background-color: #c22b31;
+    color: #fff;
+    border-radius: 3px;
+}
+.clicker2_5 button{
+    width: 7.5rem;
+    height: 35px;
+    border: none;
+    background-color: #d8d3d3;
+    border-radius: 3px;
+}
+.clicker2_4 select{
+    width: 6.5rem;
+    height: 35px;
+    border: none;
+    border-radius: 3px;
+}
+.clicker3_2{
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    padding-left: 10px;
+    width: 8rem;
+    height: 35px;
+}

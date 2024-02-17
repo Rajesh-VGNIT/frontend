@@ -1,0 +1,70 @@
+
+
+/* ==============nav second================= */
+.allocation2{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 18%;
+    gap: 1.5rem;
+    width: 60%;
+ }
+ .allocation2 input{
+     padding-left: 10px;
+     padding-right: 10px;
+     /* width: 8rem; */
+     border-radius: 3px;
+     height: 40px;
+     border: none;
+ }
+ .allocation2_2 select{
+    width: 7.5rem;
+    height: 2.5rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+ }
+ .alli1{
+     width: 7.5rem;
+     height: 2.5rem;
+     border: none;
+     color: #fff;
+     background-color: rgb(157, 25, 25);
+     font-weight: bold;
+     border-radius: 5px;
+ }
+
+ /* ==============Table Css================= */
+ .allocation3 table{
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-left: 18%;
+    width: 60%;
+    height: 20px;
+    border-collapse: collapse;
+  }
+
+  tr:nth-of-type(odd){
+    color: #333;
+    background-color: #fff;
+  }
+  tr:nth-of-type(even){
+    background-color: gray;
+    color:#fff;
+  }
+
+  th{
+    background-color: rgb(36, 32, 32);
+    color: #fff;
+    /* font-weight: 800; */
+    font-size: 15px;
+  }
+
+  td,th{
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+ 
+ 

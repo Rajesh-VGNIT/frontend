@@ -1,0 +1,57 @@
+.bulk{
+    margin-left: 18%;
+}
+.bulk1{
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+.bulk2_1{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    background-color: #e4ecf5;
+    width: 24.2rem;
+    height: 40px;
+}
+.bulk2{
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+    color: #4a4949;
+    text-align: center;
+}
+.bulk3{
+    margin-left: 18rem;
+    font-size: 20px;
+    margin-top: 4rem;
+}
+.bulk4{
+    margin-top: 5rem;
+    padding-left: 2rem;
+    font-size: 18px;
+}
+.bulk5{
+    margin-top: 2rem;
+    padding-left: 2rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+.bulk6{
+    display: flex;
+    margin-top: 2rem;
+    justify-content: space-between;
+    margin: 1.5rem 2rem;
+}
+.bulk6 button{
+    width: 9rem;
+    font-size: 18px;
+    height: 2.4rem;
+    border-radius: 5px;
+}
+.bulk6_2{
+    margin-right: 60px;
+    background: #c22b31;
+    color: #fff;
+    border: none;
+}

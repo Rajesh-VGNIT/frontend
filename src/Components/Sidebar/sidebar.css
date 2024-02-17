@@ -1,0 +1,39 @@
+#new_sms{
+  border: 2px solid black;
+  background: #fff;
+  color: black;
+  font-size: 10px
+}
+.sidenav---sidenav---_2tBP {
+  position:fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1006;
+  min-width: 64px;
+  height: 1560px;
+  background: #41464b;
+  transition: min-width 0.2s;
+}
+.sid2 a.active{
+  font-weight: bold;
+  font-size: 16px;
+  color: rgb(146, 6, 6);
+  border-bottom: 3px solid red;
+  padding-bottom: 6px; 
+}
+.sidenav---sidenav---_2tBP.sidenav---expanded---1KdUL {
+  min-width: 215px;
+}
+
+button:not(:disabled) {
+  cursor: pointer;
+}
+.sharp{
+  border: 2px solid red;
+  width: 3rem;
+  padding-top: 5px;
+  height: 2rem;
+}
+
+

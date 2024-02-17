@@ -1,0 +1,107 @@
+.user{
+    margin-left: 18%;
+}
+.user1 ul{
+    display:flex;
+    gap: 50px;
+    /* position: relative; */
+    margin-top: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    color: #676464;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 10px 20px;
+    width: 73%;
+}
+.user1 ul li a{
+    text-decoration: none;
+    color: black;
+}
+.user1 ul li a.active{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(146, 6, 6);
+    border-bottom: 3px solid rgb(193, 17, 17);
+    padding-bottom: 6px;
+}
+.user1 ul li{
+    list-style: none;
+}
+
+.user_nav{
+   display: flex;
+   justify-content: space-between;
+   width: 73%;
+}
+.user_nav input{
+    padding-left: 10px;
+    border-radius: 3px;
+    height: 45px;
+    border: none;
+}
+.but1{
+    width: 100px;
+    border: 2px solid rgb(176, 34, 34);
+    color: rgb(157, 25, 25);
+    font-weight: bold;
+    border-radius: 5px;
+}
+.but2{
+    width: 90px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.but3{
+    width: 130px;
+    background-color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+}
+.but4{
+    width: 130px;
+    background-color:  rgb(151, 30, 30);
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+.but4 a{
+    color:white;
+}
+
+/* =============Table css ============== */
+.user2{
+    margin-top: 50px;
+}
+table{
+    padding-left: 10px;
+    position: absolute;
+    /* overflow: hidden; */
+    width: 60%;
+    height: 20px;
+    border-collapse: collapse;
+  }
+
+  tr:nth-of-type(odd){
+    color: #333;
+    background-color: #fff;
+  }
+  tr:nth-of-type(even){
+    /* background-color: gray; */
+    color:#fff;
+  }
+
+  th{
+    background-color: rgb(36, 32, 32);
+    color: #fff;
+    /* font-weight: 800; */
+    font-size: 15px;
+  }
+
+  td,th{
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }

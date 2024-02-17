@@ -1,0 +1,31 @@
+.userNav{
+    margin-left: 18%;
+}
+.userNav1 ul{
+    display:flex;
+    gap: 50px;
+    /* position: relative; */
+    margin-top: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    color: #676464;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 10px 20px;
+    width: 73%;
+}
+.userNav1 ul li a{
+    text-decoration: none;
+    color: black;
+}
+.userNav1 ul li a.active{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(146, 6, 6);
+    border-bottom: 3px solid rgb(193, 17, 17);
+    padding-bottom: 6px;
+}
+
+.userNav1 ul li{
+    list-style: none;
+}

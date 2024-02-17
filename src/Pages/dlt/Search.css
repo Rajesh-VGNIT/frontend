@@ -1,0 +1,30 @@
+.search{
+    margin-left: 18%;
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.search1 input{
+    width: 15rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.search2 select{
+    width: 14rem;
+    height: 2.5rem;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.search3 button{
+    width:8rem;
+    height: 2.5rem;
+    border-radius: 5px;
+    border: 1px solid #c22b31;
+    color: #c22b31;
+    font-size: 17px;
+    font-weight: 600;
+}

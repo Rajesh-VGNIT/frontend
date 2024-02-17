@@ -1,0 +1,124 @@
+.quicksms1{
+    margin-left: 18%;
+    /* border: 2px solid red; */
+    background-color: #fff;
+    margin-top: 20px;
+    height: auto;
+    padding: 2rem 1.3rem;
+    width: 60%;
+    border-radius: 10px;
+}
+/* ===============Step1=================== */
+.quicksms2{
+    display: flex;
+    justify-content: space-between;
+}
+.quicksms2_1 select{
+    width: 20rem;
+    height: 2.5rem;
+    background-color: #cdcaca;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.quicksms2_2 p{
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+    border-radius: 3px;
+    font-size: 20px;
+    border: 2px solid red;
+    background-color: #cdcaca;
+}
+.quicksms2_2 p span{
+    margin-left: -3px;
+    padding-top: 4px;
+}
+/* ===============Step2=================== */
+.quicksms3 textarea{
+   width: 100%;
+   height: 10rem;
+   padding-left: 10px;
+   padding-top: 10px;
+   margin-top: 10px;
+   border-radius: 6px;
+}
+.quicksms3 ::placeholder{
+    font-size: 20px;
+}
+.quicksms3_1 select{
+    width: 28rem;
+    height: 4.5rem;
+    /* background-color: #e3e1e1; */
+    /* border: none; */
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.quicksms3_2 h4 span img{
+    margin-left: -1px;
+    width: 30px;
+}
+.quicksms3_3{
+    display: flex;
+    gap: 13rem;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.quicksms3_4 input{
+   width:100%;
+   height: 6rem;
+   padding-left: 20px;
+   border-radius: 5px;
+}
+.quicksms3_5{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f4f7fb;
+    height: 4rem;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    padding: 15px 20px;
+}
+.quicksms3_5 p span img{
+    width: 20px;
+}
+.int5{
+    margin-left: -20rem;
+}
+.quicksms3_6{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.quicksms3_7{
+    display: flex;
+    gap: 6rem;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.quicksms3_7_1{
+    margin-left: 4.5rem;
+}
+.quicksms3_8{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+.quicksms3_8_1{
+    width: 8rem;
+    height: 2.5rem;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color:#fff;
+   
+}
+.quicksms3_8_2{
+    width: 8rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #C22B31;
+    color: #fff;
+}

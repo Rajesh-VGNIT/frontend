@@ -1,0 +1,140 @@
+.campiSm1{
+    margin-left: 18%;
+    /* border: 2px solid red; */
+    background-color: #fff;
+    margin-top: 20px;
+    height: auto;
+    padding: 2rem 1.3rem;
+    width: 60%;
+    border-radius: 10px;
+}
+.campiSm1_1{
+    margin-left: 36%;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+/* ===============Step1=================== */
+.campiSm2{
+    display: flex;
+    justify-content: space-between;
+}
+.campiSm2_1 select{
+    width: 20rem;
+    height: 2.5rem;
+    background-color: #cdcaca;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.campiSm2_2 p{
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+    border-radius: 3px;
+    font-size: 20px;
+    border: 2px solid red;
+    background-color: #cdcaca;
+}
+.campiSm2_2 p span{
+    margin-left: -3px;
+    padding-top: 4px;
+}
+/* ===============Step2=================== */
+.campiSm3 textarea{
+   width: 100%;
+   height: 10rem;
+   padding-left: 10px;
+   padding-top: 10px;
+   margin-top: 10px;
+   border-radius: 6px;
+}
+.campiSm3 ::placeholder{
+    font-size: 20px;
+}
+.campiSm3_1 select{
+    width: 28rem;
+    height: 4.5rem;
+    /* background-color: #e3e1e1; */
+    /* border: none; */
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.campiSm3_2 h4 span img{
+    margin-left: -1px;
+    width: 30px;
+}
+.campiSm3_3{
+    display: flex;
+    gap: 1.5rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+.campiSm3_4 input{
+   width:100%;
+   height: 6rem;
+   padding-left: 20px;
+   border-radius: 5px;
+}
+.campiSm3_5{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f4f7fb;
+    height: 4rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    padding: 15px 20px;
+}
+.unicode234 select{
+    outline: none;
+    border: none;
+    background: none;
+    border-radius: 3px;
+}
+.campiSm3_5 p span img{
+    width: 20px;
+}
+.campiSm3_6{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.campiSm3_7{
+    display: flex;
+    gap: 4.8rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+.campiSm3_7_1{
+    margin-left: 4.5rem;
+}
+.campiSm3_8{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+.campiSm3_8_1{
+    width: 8rem;
+    height: 2.5rem;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color:#fff;
+   
+}
+.campiSm3_8_2{
+    width: 8rem;
+    height: 2.5rem;
+    border: 2px solid #C22B31;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #C22B31;
+}
+.campiSm3_8_3{
+    width: 8rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #C22B31;
+    color: #fff;
+}

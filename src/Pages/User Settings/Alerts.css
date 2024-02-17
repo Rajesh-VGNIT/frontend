@@ -1,0 +1,17 @@
+.alrt1{
+    margin-left: 18%;
+    width: 60%;
+    padding: 20px 15px;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.alrt3{
+    color: #858080;
+}
+.alrt1 input{
+    margin-left: 15px;
+}
+.alrt1 h5{
+    font-size: 16px;
+}

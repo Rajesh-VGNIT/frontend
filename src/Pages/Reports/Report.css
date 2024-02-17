@@ -1,0 +1,31 @@
+.report{
+    margin-left: 18%;
+}
+.report1{
+    background-color:#fff;
+    width:73%;
+    margin-top: 2rem;
+    height:80px;
+    position: inherit;
+}
+.report1 ul li{
+    list-style: none;
+    display:inline-block;
+    padding-top: 10px;
+    /* word-spacing: 20px; */
+
+}
+.report1 ul a{
+    margin: 0.4rem;
+    text-decoration: none;
+    color:black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.report1 ul li a.active{
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: rgb(146, 6, 6);
+    border-bottom: 3px solid rgb(193, 17, 17);
+    padding-bottom: 6px; 
+}

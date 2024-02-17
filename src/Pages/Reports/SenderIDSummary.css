@@ -1,0 +1,70 @@
+.senderID1{
+    margin-left: 18%;
+}
+.senderID1_1{
+    float: right;
+    margin-right: 15px;
+}
+.senderID1_1 button{
+    margin-top: 30px;
+    margin-right: 20px;
+    width: 200px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 6px;
+    background-color: #c22b31;
+    color: #fff;
+    border: none;
+}
+.senderID2{
+    margin-top: 2rem;
+    display: flex;
+    gap: 20px;
+}
+.senderID2_1{
+    border: none;
+    outline: none;
+    margin-left: 17rem;
+    border-radius: 3px;
+    padding-left: 10px;
+    width: 8rem;
+    height: 35px;
+}
+.senderID2_2 input{
+    border: none;
+   width: 7rem;
+   height: 35px;
+   border-radius: 3px;
+   padding-left: 10px;
+}
+.senderID2_3 button{
+    width: 7rem;
+    height: 35px;
+    margin-left: 4rem;
+    border: none;
+    background-color: #c22b31;
+    color: #fff;
+    border-radius: 3px;
+}
+.senderID2_5 button{
+    width: 7.5rem;
+    height: 35px;
+    border: none;
+    background-color: #d8d3d3;
+    border-radius: 3px;
+}
+.senderID2_4 select{
+    width: 6.5rem;
+    height: 35px;
+    border: none;
+    border-radius: 3px;
+}
+.senderID3_2{
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    padding-left: 10px;
+    width: 8rem;
+    height: 35px;
+}

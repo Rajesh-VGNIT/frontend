@@ -1,0 +1,63 @@
+.camp{
+    margin-left: 18%;
+    margin-top: 2rem;
+}
+.modal {
+  position: fixed;
+  top: 100px;
+  left: 0;
+  z-index: 1060;
+  display: none;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  outline: 0;
+}
+.camp1 button{
+    width: 240px;
+    height: 40px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 1rem;
+    border: none;
+    color: #fff;
+    background: rgb(161, 35, 35);
+}
+.camp2{
+    margin-top: 20px;
+}
+.camp2 table{
+    padding-left: 10px;
+    margin-top: 50px;
+    width: 60%;
+    height: 20px;
+    border-collapse: collapse;
+  }
+
+  tr:nth-of-type(odd){
+    color: #333;
+    background-color: #fff;
+  }
+  tr:nth-of-type(even){
+    background-color: gray;
+    color:#fff;
+  }
+
+  th{
+    background-color: rgb(36, 32, 32);
+    color: #fff;
+    /* font-weight: 800; */
+    font-size: 15px;
+  }
+
+  td,th{
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  .btn{
+    margin: 2px;
+  }

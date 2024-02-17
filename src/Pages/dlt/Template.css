@@ -1,0 +1,53 @@
+.temp{
+    margin-left: 18%;
+}
+.temp1_1{
+    float: right;
+    margin-right: 15px;
+}
+.temp1_1 button{
+    margin-top: 30px;
+    margin-right: 20px;
+    width: 200px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 6px;
+    background-color: #c22b31;
+    color: #fff;
+    border: none;
+}
+.temp2{
+    padding-top: 100px;
+    display: flex;
+    gap: 20px;
+}
+.temp2_1{
+    border: none;
+    outline: none;
+    width: 7.4rem;
+    border-radius: 3px;
+    padding-left: 10px;
+    height: 35px;
+}
+.temp2_2 input{
+    border: none;
+   width: 9.5rem;
+   height: 35px;
+   border-radius: 3px;
+   padding-left: 10px;
+}
+.temp2_3 button{
+    width: 6rem;
+    height: 35px;
+    border: none;
+    background-color: #c22b31;
+    color: #fff;
+    border-radius: 3px;
+}
+.temp2_4 button{
+    width: 6rem;
+    height: 35px;
+    border: none;
+    border-radius: 3px;
+}

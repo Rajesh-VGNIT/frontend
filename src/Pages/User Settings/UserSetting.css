@@ -1,0 +1,35 @@
+.usersett1{
+    background-color:#fff;
+    width:73%;
+    margin-top: 2rem;
+    height:50px;
+    position: inherit;
+
+}
+.usersett{
+    margin-left: 18%;
+}
+
+
+.usersett1 ul li{
+    list-style: none;
+    display:inline-block;
+    padding-top: 10px;
+    /* word-spacing: 20px; */
+
+}
+.usersett1 ul a{
+    margin: 1rem 1rem;
+    /* padding: 1.4rem 1rem; */
+    text-decoration: none;
+    color:black;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.usersett1 ul li a.active{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(146, 6, 6);
+    border-bottom: 3px solid rgb(193, 17, 17);
+    padding-bottom: 6px; 
+}

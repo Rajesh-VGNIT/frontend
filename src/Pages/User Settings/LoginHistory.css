@@ -1,0 +1,11 @@
+.loginhist1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 60%;
+    padding-top: 10px;
+    margin-top: 40px;
+    background-color: #fff;
+    border-radius: 10px;
+    height: auto;
+    margin-left: 18%;
+}
